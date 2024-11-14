@@ -96,22 +96,27 @@ vs. N for each case. Take a screenshot of your graph and put them here by modify
 it to this repository.
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
-![QuickSort , BubbleSort, MergeSort and HeapSort (1)](https://github.com/user-attachments/assets/1acc84da-254a-4375-acaf-f8bb5f1dc072)
+
+![QuickSort , BubbleSort, MergeSort and HeapSort (2)](https://github.com/user-attachments/assets/ca4eab6f-dc47-4ef3-afaa-288feb3149e7)
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
-![QuickSort Shuffled, BubbleSort Shuffled, MergeSort Shuffled and HeapSort Shuffled (1)](https://github.com/user-attachments/assets/8e1b1490-f6e1-4532-b407-ec816c510efc)
+![QuickSort Shuffled, BubbleSort Shuffled, MergeSort Shuffled and HeapSort Shuffled (2)](https://github.com/user-attachments/assets/f64bf17b-d323-4ef0-be13-c5caaa571701)
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
-![QuickSort Reversed, BubbleSort Reversed , MergeSort Reversed and HeapSort Reversed (1)](https://github.com/user-attachments/assets/b2211d1f-fcde-4ef3-998a-f071e4fb740d)
+![QuickSort Reversed, BubbleSort Reversed , MergeSort Reversed and HeapSort Reversed (2)](https://github.com/user-attachments/assets/e349c01f-80cb-44ed-9ccf-e009a2108a76)
+
 
 Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):
-![Bubble Sort Vs OddEvenSort (1)](https://github.com/user-attachments/assets/8f0da295-e8f9-4f5f-b00e-054674ef72ef)
+
+![Bubble Sort Vs OddEvenSort (3)](https://github.com/user-attachments/assets/28c07ad9-929d-4d7b-be6d-54a27261a645)
 
 Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
-![BubbleSort Shuffled and OddEvenSort Shuffled (1)](https://github.com/user-attachments/assets/a016d508-32d7-45b5-9afc-96998449c925)
+![BubbleSort Shuffled and OddEvenSort Shuffled (2)](https://github.com/user-attachments/assets/e540c56f-d08e-4333-ab5c-6d2fc72673ff)
+
 
 Bubble Sort and Odd-Even Transposition Sort comparison (reversed):
-![BubbleSort Reversed and OddEvenSort Reversed (1)](https://github.com/user-attachments/assets/10d0b99c-32f2-41bc-a168-d1fd95528bdf)
+![BubbleSort Reversed and OddEvenSort Reversed (2)](https://github.com/user-attachments/assets/288c43c2-cf42-4d5d-a7fa-7ef6531ed665)
+
 
 ## Submission:
 
