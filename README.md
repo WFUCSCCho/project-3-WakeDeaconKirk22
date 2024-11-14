@@ -96,18 +96,18 @@ vs. N for each case. Take a screenshot of your graph and put them here by modify
 it to this repository.
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
-![image](https://github.com/user-attachments/assets/76f103c8-8c02-4bec-9966-99568f2effb6)
 
+![QuickSort , BubbleSort, MergeSort and HeapSort (1).png](../../Downloads/QuickSort%20%2C%20BubbleSort%2C%20MergeSort%20and%20HeapSort%20%281%29.png)
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
-
+![QuickSort Shuffled, BubbleSort Shuffled, MergeSort Shuffled and HeapSort Shuffled (1).png](../../Downloads/QuickSort%20Shuffled%2C%20BubbleSort%20Shuffled%2C%20MergeSort%20Shuffled%20and%20HeapSort%20Shuffled%20%281%29.png)
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
-
+![QuickSort Reversed, BubbleSort Reversed , MergeSort Reversed and HeapSort Reversed (1).png](../../Downloads/QuickSort%20Reversed%2C%20BubbleSort%20Reversed%20%2C%20MergeSort%20Reversed%20and%20HeapSort%20Reversed%20%281%29.png)
 Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):
-
+![Bubble Sort Vs OddEvenSort (1).png](../../Downloads/Bubble%20Sort%20Vs%20OddEvenSort%20%281%29.png)
 Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
-
+![BubbleSort Shuffled and OddEvenSort Shuffled (1).png](../../Downloads/BubbleSort%20Shuffled%20and%20OddEvenSort%20Shuffled%20%281%29.png)
 Bubble Sort and Odd-Even Transposition Sort comparison (reversed):
-
+![BubbleSort Reversed and OddEvenSort Reversed (1).png](../../Downloads/BubbleSort%20Reversed%20and%20OddEvenSort%20Reversed%20%281%29.png)
 ## Submission:
 
 Your project will be developed and graded via GitHub. Your final "push" is your final submission, and it must occur 

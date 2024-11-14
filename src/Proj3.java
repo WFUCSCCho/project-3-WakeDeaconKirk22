@@ -308,10 +308,10 @@ public class Proj3 {
             }
 
 
-            switch(sortType){
+            switch(sortType){ // writes the different cases for the command line arguements
 
                 case "MergeSort":
-                    sortedArray = NbaObject;
+                    sortedArray = NbaObject; //write to file the sorted array
                     Collections.sort(sortedArray);
                 startTime = System.nanoTime();
                 System.out.println(sortedArray.toString());
@@ -323,7 +323,7 @@ public class Proj3 {
 
 
 
-            shuffleArray = NbaObject;
+            shuffleArray = NbaObject; ////write to file the shuffle array
             Collections.shuffle(shuffleArray);
             startTime = System.nanoTime();
             System.out.println(shuffleArray.toString());
@@ -334,7 +334,7 @@ public class Proj3 {
             writeToFile(fileWriter,"analysis.txt",true);
 
 
-            reversedArray = NbaObject;
+            reversedArray = NbaObject;  //write to file the reversed array
             Collections.sort(reversedArray, Collections.reverseOrder());
             startTime = System.nanoTime();
             System.out.println(reversedArray.toString());
@@ -349,7 +349,7 @@ public class Proj3 {
 //Cases for the command line arguments
                 case "QuickSort":
 
-                    sortedArray = NbaObject;
+                    sortedArray = NbaObject; //write to file the sorted array as above
                     Collections.sort(sortedArray);
                     startTime = System.nanoTime();
                     System.out.println(sortedArray.toString());
